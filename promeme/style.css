@@ -1,0 +1,26 @@
+html{
+    background-color: #C9BEFF;
+}
+#intro{
+    color: #5b005b;
+    font-family: "Cause",serif;
+    font-size: smaller;
+}
+#img{
+    border: 15px solid #5b005b;
+    padding:10px;
+    margin:60px;
+    background-color: #7e017e;
+}
+#go{
+   padding:10px;
+   margin:50px;
+   border: 3px dashed #640164;
+   color:#2f002f;
+   font-family: "Just Me Again Down Here", cursive;
+}
+#hello{
+    border:10px solid #5b005b;
+    margin: 60px;
+    padding:10px;
+}
